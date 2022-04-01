@@ -1,5 +1,6 @@
 <p align=”center”>
-![image](https://user-images.githubusercontent.com/58988471/161172479-0fa3f862-ec52-4122-afd4-0abff3f54565.png)
+
+
 </p>
 
 <h2 align="center">
